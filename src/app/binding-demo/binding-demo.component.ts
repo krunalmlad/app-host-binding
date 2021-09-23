@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
 })
 export class BindingDemoComponent {
     userMessage: string = '';
+	customerMessage: string = '';
 
     constructor(){
 
